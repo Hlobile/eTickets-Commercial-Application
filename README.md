@@ -1,8 +1,10 @@
 # **Movie Ticket Application System**
 
-The Movie Ticket Application System is a web-based application that 
+The Movie Ticket Application System v1 is a web-based application that 
 allows users to purchase movie tickets online. The application is built
 using .NET, jQuery, and Bootstrap technologies to ensure a smooth and responsive user experience.
+
+For a premium version, with payments, orders, shopping carts and identity, kindly email me.
 
 ## 1.Prerequisites:
 1.Ensure you have .NET SDK installed on your system.
@@ -10,9 +12,9 @@ Make sure you have a compatible web server or development environment to host th
 
 ## 2.Clone the Repository:
 ```
- git clone https://github.com/Hlobile/eCommerce.git
+ git clone https://github.com/Hlobile/eTickets-Commercial-Application.git
 ```
-cd eCommerce
+cd eTickets-Commercial-Application
 
 ## 3.Configure the Database:
 
